@@ -8,4 +8,8 @@ Hello! My name is Nora Kirby, and I am currently a senior studying Science Writi
 
 ## Lehigh Undergraduate College Distribution by Percent (2024)
 
-In the academic year beginning in the Fall of 2024, the undergraduate student population was determined to be comprised of seven distinct groups corresponding to their program and college. 
+In the academic year beginning in the Fall of 2024, the undergraduate student population was determined to be comprised of seven distinct groups corresponding to their program and college. One of these groups is not represented on the infographic, as I feel the data is insignificant and unclear. Because of this, 0.2% is taken out and put under the label "other". 
+
+I decided to present the data from largest to smallest so that viewers can better visualize the distribution of students among the various colleges. This data was taken from the [Office of Institutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) at Lehigh University. 
+
+![LUinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/LUinfographic%20(2).jpg?raw=true)
