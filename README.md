@@ -17,6 +17,7 @@ I decided to present the data from largest to smallest so that viewers can bette
 ## Are College Students in the U.S. Environmentally Conscious?
 
 In a 2023 sample survey covering all 50 states and the District of Columbia, researchers measured the environmental opinions of America’s youth. The survey consisted of 80.5% 18-25 year olds, college-aged students, and 19.5% 16-17 year olds. The survey had around an equal number of males and females and included a wide range of demographics to have a true representation of the college-aged population. 
-This infographic depicts multiple results of the survey that I feel are most important to share with other college-aged individuals. I depicted the percentages through pie charts to provide concrete visuals of the majority, and put images of a few of America's ecosystems to depict the topic of the survey.     
+
+This infographic depicts multiple results of the survey that I feel are most important to share with other college-aged individuals. I illustrated the percentages through pie charts to provide concrete visuals of the majority, and put images of a few of America's ecosystems to depict the topic of the survey.     
 
 ![enviroinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/enviroinfographic%20(1).jpg?raw=true)
