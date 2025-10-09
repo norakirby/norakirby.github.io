@@ -21,3 +21,5 @@ In a 2023 sample survey covering all 50 states and the District of Columbia, res
 This infographic depicts multiple results of the survey that I feel are most important to share with other college-aged individuals. I illustrated the percentages through pie charts to provide concrete visuals of the majority, and put images of a few of America's ecosystems to depict the topic of the survey.     
 
 ![enviroinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/enviroinfographic%20(1).jpg?raw=true)
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTMjlJ-ij7sjspBvTOkusMLkloc9ZH4IlP3oP_xswis78I5MfI3Y1cZtx1ACvOIq24KZckzk6QxPIRy&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
