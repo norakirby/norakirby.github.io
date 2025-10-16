@@ -23,3 +23,9 @@ This infographic depicts multiple results of the survey that I feel are most imp
 ![enviroinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/enviroinfographic%20(1).jpg?raw=true)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTMjlJ-ij7sjspBvTOkusMLkloc9ZH4IlP3oP_xswis78I5MfI3Y1cZtx1ACvOIq24KZckzk6QxPIRy&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## The Search for Cleopatra's Final Resting Place 
+
+This timeline shows the journey of the expedition to discover the long-lost tomb of the infamous Queen Cleopatra of Egypt. In this timeline, I highlighted the most crucial elements of the search, which has been over a decade long, giving a short yet comprehensive summary of the project. The pictures and information are taken from primary resources, besides the first image, sourced from Wikipedia, to enhance the authenticity.  
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRYHS5coOYGeRab6mzmzdrZRPF5y0y3rvYJL7xubrJ1COO8DGE4oEBCEKkNweTaDx9vZNlSo3WlsOCY&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
