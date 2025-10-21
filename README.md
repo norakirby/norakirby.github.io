@@ -29,3 +29,10 @@ This infographic depicts multiple results of the survey that I feel are most imp
 This timeline shows the journey of the expedition to discover the long-lost tomb of the infamous Queen Cleopatra of Egypt. In this timeline, I highlighted the most crucial elements of the search, which has been over a decade long, giving a short yet comprehensive summary of the project. The pictures and information are taken from primary resources, besides the first image, sourced from Wikipedia, to enhance the authenticity.  
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRYHS5coOYGeRab6mzmzdrZRPF5y0y3rvYJL7xubrJ1COO8DGE4oEBCEKkNweTaDx9vZNlSo3WlsOCY&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+## The Economic and Ecological Damage of Extreme Weather Events
+
+This bar chart depicts the the top five most frequent and most coslty extreme weather and climate events from 1980 to 2011. 
+
+<iframe title="Top 5 US Billion-dollar Weather and Climate Disasters from 1980-2011" aria-label="Grouped Bars" id="datawrapper-chart-SKeZn" src="https://datawrapper.dwcdn.net/SKeZn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="473" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
