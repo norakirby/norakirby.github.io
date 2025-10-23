@@ -37,3 +37,7 @@ This bar chart depicts and compares the most frequent and most coslty extreme we
 
 
 <iframe title="Top 5 US Billion-dollar Weather and Climate Disasters from 1980-2011" aria-label="Grouped Bars" id="datawrapper-chart-SKeZn" src="https://datawrapper.dwcdn.net/SKeZn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="473" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+## Map of the Top Cycling Cities in 2019
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18y8doz-BQ2kFI_5hmeBsiX8R1UcnkJo&ehbc=2E312F" width="640" height="480"></iframe>
