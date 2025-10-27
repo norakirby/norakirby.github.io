@@ -41,3 +41,9 @@ This bar chart depicts and compares the most frequent and most coslty extreme we
 ## Map of the Top Cycling Cities in 2019
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=18y8doz-BQ2kFI_5hmeBsiX8R1UcnkJo&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Map of the Top Sustainable Cities in 2024 
+
+This map shows the five top-ranked sustainable cities based on the list put out by Sustainability Magazine in 2024. These cities achieved their rank through infrastructure such as renewable energy policies, carbon emission reduction, electric transportation, and other sustainable measures. I chose to display sustainable cities on my map as I feel it is a necessary visualization, especially as an American citizen, to see first of all that no American cities are listed, and notice the regional influence for change. The cities are marked with different colors and labeled by rank to differentiate them and make the map a more understandable visual. 
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wP18z9LbiDjU1-IAjUYfPUZ_b0M3cy8&ehbc=2E312F" width="640" height="480"></iframe>
