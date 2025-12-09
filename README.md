@@ -6,6 +6,8 @@ Hello! My name is Nora Kirby, and I am currently a senior at Lehigh University s
 
 ![profilepic](https://github.com/norakirby/norakirby.github.io/blob/main/profilepic.jpeg?raw=true)
 
+(---)
+
 ## Lehigh Undergraduate College Distribution by Percent (2024)
 
 In the academic year beginning in the Fall of 2024, the undergraduate student population was determined to be comprised of seven distinct groups corresponding to their program and college. One of these groups is not represented on the infographic, as I feel the data is insignificant and unclear. Because of this, 0.2% is taken out and put under the label "other". 
