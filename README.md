@@ -1,5 +1,11 @@
 ![Header](./github-header-banner.png) 
 
+## Contents
+# [Self Intro!](https://norakirby.github.io/#self-intro)
+# [Lehigh Undergraduate College Distribution by Percent 2024](https://norakirby.github.io/#lehigh-undergraduate-college-distribution-by-percent-2024)
+# [Are College Students in the U.S. Environmentally Conscious?](https://norakirby.github.io/#are-college-students-in-the-us-environmentally-conscious)
+
+
 ## Self Intro!
 
 Hello! My name is Nora Kirby, and I am currently a senior at Lehigh University studying Science Writing and Environmental Studies. I am passionate about environmental activism, and am currently working as an intern for the [Arctic Defense Campaign](https://www.defendthearctic.org/).
