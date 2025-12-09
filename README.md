@@ -3,7 +3,7 @@
 ## Contents
 - [Lehigh Undergraduate College Distribution by Percent 2024](https://norakirby.github.io/#lehigh-undergraduate-college-distribution-by-percent-2024)
 - [Are College Students in the U.S. Environmentally Conscious?](https://norakirby.github.io/#are-college-students-in-the-us-environmentally-conscious)
-- 
+- [The Rivalry: A Timeline](https://norakirby.github.io/#the-rivalry-a-timeline)
 - [The Search for Cleopatra's Final Resting Place](https://norakirby.github.io/#the-search-for-cleopatras-final-resting-place)
 - [The Economic and Ecological Damage of Extreme Weather Events](https://norakirby.github.io/#the-economic-and-ecological-damage-of-extreme-weather-events)
 - [Map of the Top Cycling Cities in 2019](https://norakirby.github.io/#map-of-the-top-cycling-cities-in-2019)
@@ -36,6 +36,7 @@ In a 2023 sample survey covering all 50 states and the District of Columbia, res
 This infographic depicts multiple results of the survey that I feel are most important to share with other college-aged individuals. I illustrated the percentages through pie charts to provide concrete visuals of the majority, and put images of a few of America's ecosystems to depict the topic of the survey.     
 
 ![enviroinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/enviroinfographic%20(1).jpg?raw=true)
+
 
 ## The Rivalry: A Timeline
 
