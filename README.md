@@ -1,3 +1,4 @@
+![Header](https://github.com/norakirby/norakirby.github.io/blob/main/Nora%20Kirby.jpg?raw=true)
 # Nora Kirby
 
 ## Self Intro!
