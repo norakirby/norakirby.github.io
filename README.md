@@ -1,4 +1,4 @@
-![Header](./<img width="736" height="482" alt="image" src="https://github.com/user-attachments/assets/b823e1c8-fc14-41a3-a307-77438ba8d44e" />) 
+![Header](./https://github.com/norakirby/norakirby.github.io/blob/main/github-header-banner.png?raw=true) 
 
 
 
