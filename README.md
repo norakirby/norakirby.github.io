@@ -1,10 +1,18 @@
 ![Header](./github-header-banner.png) 
 
 ## Contents
-- [Self Intro!](https://norakirby.github.io/#self-intro)
 - [Lehigh Undergraduate College Distribution by Percent 2024](https://norakirby.github.io/#lehigh-undergraduate-college-distribution-by-percent-2024)
 - [Are College Students in the U.S. Environmentally Conscious?](https://norakirby.github.io/#are-college-students-in-the-us-environmentally-conscious)
-
+- 
+- [The Search for Cleopatra's Final Resting Place](https://norakirby.github.io/#the-search-for-cleopatras-final-resting-place)
+- [The Economic and Ecological Damage of Extreme Weather Events](https://norakirby.github.io/#the-economic-and-ecological-damage-of-extreme-weather-events)
+- [Map of the Top Cycling Cities in 2019](https://norakirby.github.io/#map-of-the-top-cycling-cities-in-2019)
+- [Map of the Top Sustainable Cities in 2024](https://norakirby.github.io/#map-of-the-top-sustainable-cities-in-2024)
+- [Safety of Groups at College Parties Visual](https://norakirby.github.io/#safety-of-groups-at-college-parties-visual)
+- [Further Data Visuals on Party Behavior](https://norakirby.github.io/#further-data-visuals-on-party-behavior)
+- [Map of IEPDS Higher Education Data](https://norakirby.github.io/#map-of-iepds-higher-education-data)
+- [Map of U.S. Air Quality in 2024](https://norakirby.github.io/#map-of-us-air-quality-in-2024)
+  
 
 ## Self Intro!
 
@@ -28,6 +36,8 @@ In a 2023 sample survey covering all 50 states and the District of Columbia, res
 This infographic depicts multiple results of the survey that I feel are most important to share with other college-aged individuals. I illustrated the percentages through pie charts to provide concrete visuals of the majority, and put images of a few of America's ecosystems to depict the topic of the survey.     
 
 ![enviroinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/enviroinfographic%20(1).jpg?raw=true)
+
+## The Rivalry: A Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTMjlJ-ij7sjspBvTOkusMLkloc9ZH4IlP3oP_xswis78I5MfI3Y1cZtx1ACvOIq24KZckzk6QxPIRy&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
