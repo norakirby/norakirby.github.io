@@ -6,6 +6,7 @@ Hello! My name is Nora Kirby, and I am currently a senior at Lehigh University s
 
 ![profilepic](https://github.com/norakirby/norakirby.github.io/blob/main/profilepic.jpeg?raw=true)
 
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 
 ## Lehigh Undergraduate College Distribution by Percent (2024)
 ![header](https://capsule-render.vercel.app/api?type=waving)
