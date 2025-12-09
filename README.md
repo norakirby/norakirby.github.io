@@ -1,6 +1,4 @@
-![Header](./https://github.com/norakirby/norakirby.github.io/blob/main/github-header-banner.png?raw=true) 
-
-
+![Header](./github-header-banner.png) 
 
 ## Self Intro!
 
