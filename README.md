@@ -1,4 +1,4 @@
-![Header](https://github.com/norakirby/norakirby.github.io/blob/main/Nora%20Kirby.jpg?raw=true)
+![Header](<img width="736" height="482" alt="image" src="https://github.com/user-attachments/assets/57308979-41f6-4f18-b9a8-1b26f6a7349c" />)
 # Nora Kirby
 
 ## Self Intro!
