@@ -4,7 +4,7 @@
 
 Hello! My name is Nora Kirby, and I am currently a senior at Lehigh University studying Science Writing and Environmental Studies. I am passionate about environmental activism, and am currently working as an intern for the [Arctic Defense Campaign](https://www.defendthearctic.org/).
 
-![profilepic](https://github.com/norakirby/norakirby.github.io/blob/main/profilepic.jpeg?raw=true&type=wave)
+![profilepic](https://github.com/norakirby/norakirby.github.io/blob/main/profilepic.jpeg?raw=true&type=waveing)
 
 ![header](https://capsule-render.vercel.app/api?type=waving) 
 
