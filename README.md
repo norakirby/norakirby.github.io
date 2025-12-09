@@ -1,4 +1,4 @@
-![Header](./github-header-banner.pngtype=cylinder) 
+![Header](./github-header-banner.png) 
 
 ## Self Intro!
 
