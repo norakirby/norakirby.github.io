@@ -13,7 +13,7 @@ In the academic year beginning in the Fall of 2024, the undergraduate student po
 
 I decided to present the data from largest to smallest so that viewers can better visualize the distribution of students among the various colleges. This data was taken from the [Office of Institutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) at Lehigh University. 
 
-![LUinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/LUinfographic%20(2).jpg?raw=true&height=100)
+![LUinfographic](https://github.com/norakirby/norakirby.github.io/blob/main/LUinfographic%20(2).jpg?raw=true)
 
 ## Are College Students in the U.S. Environmentally Conscious?
 
