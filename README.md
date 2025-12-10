@@ -98,4 +98,4 @@ This data story first shows the number of days out of the year monitors detect P
 Sources: [Data](https://aqs.epa.gov/aqsweb/airdata/annual_aqi_by_cbsa_2024.zip), [About the Data](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual), [Air Quality Index](https://www.airnow.gov/aqi/)
 
 
-![Header](github-header-banner (1).png)
+![Header](./github-header-banner (1).png)
