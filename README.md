@@ -16,7 +16,9 @@
 
 ## Self Intro!
 
-Hello! My name is Nora Kirby, and I am a graduating senior at Lehigh University studying Science Writing and Environmental Studies. After graduation, I am looking forward to pursuring my passions in environmental conservation and communicating scientific issues to broud audiences. In my college career I have focused on increasing awarness for local and national environemntal issues and promoting conservation efforts in my community through positions such as Grassroots Coordinator for the [Arctic Defense Campaign](https://www.defendthearctic.org/), and Vice President of the [Epsilon Delta Pi Environmental Honor Society](https://www.instagram.com/lehigh_edpi/). 
+Hello! My name is Nora Kirby, and I am a graduating senior at Lehigh University studying Science Writing and Environmental Studies. In my college career I have focused on increasing awarness for local and national environemntal issues and promoting conservation efforts in my community through positions such as Grassroots Coordinator for the [Arctic Defense Campaign](https://www.defendthearctic.org/), and Vice President of the [Epsilon Delta Pi Environmental Honor Society](https://www.instagram.com/lehigh_edpi/). After graduation, I am looking forward to pursuring my passions in environmental conservation and communicating scientific topics to broad audiences.
+
+This website is a portfolio culminating my work done in a Data Journalism class at Lehigh University, were we explored differnt platforms and ways to present data in an engaging way for use in the media. 
 
 ![profilepic](https://github.com/norakirby/norakirby.github.io/blob/main/profilepic.jpeg?raw=true)
 
